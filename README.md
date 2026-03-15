@@ -2,8 +2,9 @@ noe<!-- Profile README for Ruksana1006 -->
 
 <h1 align="center">Hi 👋, I'm Ruksana Khatun</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&vCenter=true&width=440&lines=B.Tech+Student;Aspiring+AI+%26+Cloud+Developer;Full+Stack+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+Student;Aspiring+AI+%26+Cloud+Developer;Full+Stack+Learner" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://github.com/Ruksana1006">
     <img src="https://img.shields.io/github/followers/Ruksana1006?label=Follow&style=social" alt="GitHub Followers" />
