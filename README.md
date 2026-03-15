@@ -27,6 +27,12 @@ noe<!-- Profile README for Ruksana1006 -->
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+
+
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -92,9 +98,7 @@ noe<!-- Profile README for Ruksana1006 -->
 - <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" width="20"/> [ruksanakhatun0410@gmail.com](mailto:ruksanakhatun0410@gmail.com)
 
 ---
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ruksana1006&theme=onestar&no-frame=true&column=7" alt="trophy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5494,100:00C9FF&height=120&section=footer"/>
 </p>
 
-<!-- Feel free to personalize more or add portfolio links! -->
